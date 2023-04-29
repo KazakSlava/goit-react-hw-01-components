@@ -12,14 +12,14 @@
     justify-content: flex-start;
     width: 280px;
     padding-left: 20px;
-    border: 1px solid #d6d6d6;
+    border: 1px solid #9b9797;
     border-radius: 5px;
-    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    box-shadow: rgba(16, 16, 16, 0.16) 0px 1px 4px;
     margin-bottom: 20px;
 }
 
 .item:not(:last-child) {
-    margin-bottom: 10px;
+    margin-bottom: 12px;
 }
 
 .status {
